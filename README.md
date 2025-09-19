@@ -23,8 +23,6 @@ I built this project to practice **Flutter app development** and to create a com
 ---
 
 ## Screenshots
-*(Here you can add a few app screenshots so companies can quickly see the UI)*  
-
 <p align="center">
   <img src="docs/screenshots/home1.png" width="250" alt="Home Screen"/>
   <img src="docs/screenshots/home2.png" width="250" alt="home2"/>
@@ -37,7 +35,15 @@ I built this project to practice **Flutter app development** and to create a com
 
 ## Getting Started
 
-1. Clone the repository  
 ```bash
 git clone https://github.com/Aaron5194/dunk_deck_ecommerce-flutter.git
 cd dunk_deck_ecommerce-flutter
+flutter pub get
+flutter run
+```
+
+## Author
+**Aaron Pradeep**
+aaronpradeep12@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aaron-pradeep/)
+

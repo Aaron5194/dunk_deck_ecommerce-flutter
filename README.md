@@ -1,16 +1,43 @@
-# my_app
+# Dunk Deck 🛹
 
-A new Flutter project.
+Dunk Deck is a Flutter-based ecommerce app where users can explore and shop for shoes and skateboards.  
+I built this project to practice **Flutter app development** and to create a complete shopping experience with a clean UI and smooth navigation.  
+
+---
+
+## Features
+- Browse a product catalog (shoes and skateboards)  
+- View product details with images and descriptions  
+- Add items to the cart and update/remove them  
+- Simple checkout flow (mock payment flow for now)  
+- Responsive design for Android and iOS  
+
+---
+
+## Tech Stack
+- **Framework**: Flutter (Dart)  
+- **State Management**: Provider  
+- **Local Storage**: SharedPreferences  
+- **Platforms**: Android & iOS  
+
+---
+
+## Screenshots
+*(Here you can add a few app screenshots so companies can quickly see the UI)*  
+
+<p align="center">
+  <img src="docs/screenshots/home1.png" width="250" alt="Home Screen"/>
+  <img src="docs/screenshots/home2.png" width="250" alt="home2"/>
+  <img src="docs/screenshots/product1.png" width="250" alt="product1"/>
+  <img src="docs/screenshots/product2.png" width="250" alt="product2"/>
+  <img src="docs/screenshots/cart.png" width="250" alt="Cart"/>
+</p>
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository  
+```bash
+git clone https://github.com/Aaron5194/dunk_deck_ecommerce-flutter.git
+cd dunk_deck_ecommerce-flutter
